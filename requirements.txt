@@ -1,0 +1,4 @@
+face_recognition
+pillow
+image_hash
+tkinter
